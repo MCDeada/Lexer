@@ -1,0 +1,10 @@
+int a = 123;
+double b = 2.2e5;
+boolean exit = false;
+while (b > a && !exit) {
+	b = b - a 
+	if (b == 0 && a > 0) {
+		break;
+	}
+	a = a / 15.0;
+}

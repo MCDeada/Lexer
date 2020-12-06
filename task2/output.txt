@@ -1,0 +1,83 @@
+<int, type>
+< , separator>
+<a, identificator>
+< , separator>
+<=, assignment_operator>
+< , separator>
+<123, number>
+<;, separator>
+<double, type>
+< , separator>
+<b, identificator>
+< , separator>
+<=, assignment_operator>
+< , separator>
+<2.2e5, number>
+<;, separator>
+<boolean, type>
+< , separator>
+<exit, identificator>
+< , separator>
+<=, assignment_operator>
+< , separator>
+<false, keyword>
+<;, separator>
+<while, keyword>
+< , separator>
+<(, bracket>
+<b, identificator>
+< , separator>
+<>, compare_operator>
+< , separator>
+<a, identificator>
+< , separator>
+<&&, logic_operator>
+< , separator>
+<!, logic_operator>
+<exit, identificator>
+<), bracket>
+< , separator>
+<{, bracket>
+<b, identificator>
+< , separator>
+<=, assignment_operator>
+< , separator>
+<b, identificator>
+< , separator>
+<-, algorithmic_operator>
+< , separator>
+<a, identificator>
+< , separator>
+<if, keyword>
+< , separator>
+<(, bracket>
+<b, identificator>
+< , separator>
+<==, compare_operator>
+< , separator>
+<0, number>
+< , separator>
+<&&, logic_operator>
+< , separator>
+<a, identificator>
+< , separator>
+<>, compare_operator>
+< , separator>
+<0, number>
+<), bracket>
+< , separator>
+<{, bracket>
+<break, keyword>
+<;, separator>
+<}, bracket>
+<a, identificator>
+< , separator>
+<=, assignment_operator>
+< , separator>
+<a, identificator>
+< , separator>
+</, algorithmic_operator>
+< , separator>
+<15.0, number>
+<;, separator>
+<}, bracket>
